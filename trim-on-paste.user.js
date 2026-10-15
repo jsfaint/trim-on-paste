@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Trim on Paste
-// @namespace    https://github.com/jiasui/trim
+// @namespace    https://github.com/jsfaint/trim-on-paste
 // @version      1.0.0
 // @description  粘贴时自动去掉文本首尾的空白（空格、Tab、换行、全角空格）
-// @author       jiasui
+// @author       jsfaint
 // @match        *://*/*
 // @run-at       document-start
 // @grant        none
